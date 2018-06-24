@@ -1,0 +1,125 @@
+html,body {
+	height:100vh;
+	width:100vw;
+	background-color:white;
+}
+
+.foc{
+	margin:auto;
+	height:350px;
+	width:280px;
+	padding-bottom:10px;
+	background-color:#DB0A5B;
+	border-radius: 8px;
+	
+}
+.dy{
+	text-align:center;
+}
+.cred{
+	
+	color:#4ECDC4;
+}
+.barin{
+	height:100px;
+	width:150px;
+}
+.p{
+	position:relative;
+	bottom:0px;
+	margin-top:5px;
+	
+}
+.pow{
+	position: static;
+	bottom:0px;
+	right:45%;
+	color:#6C7A89;
+	
+}
+.log{
+	margin-top:60px;
+	margin-left:7px;
+	margin-right:7px;
+	
+}
+
+.reg{
+	margin:auto;
+	background-color:#3A539B;
+	padding:20px;
+	border-radius:8px;
+	width:60%;
+}
+
+.ed{
+	margin:auto;
+	padding:20px;
+	border-radius:8px;
+	width:70%;
+}
+
+
+.cont-div{
+	position:relative;
+	height:250px;
+	border:none;
+	padding:7px;
+	
+	
+}
+
+.cont{
+	position:absolute;
+	height:180px;
+	bottom:0px;
+	
+}
+
+.cont-header{
+	
+}
+.top-left{
+	left:0px;
+	position:absolute;
+	height:70px;
+	width:70px;
+}
+.top-other{
+	left:100px;
+	height:70px;
+	width:auto;
+	position:relative;
+	
+}
+.top-div{
+	position:absolute;
+	top:0px;
+	height:70px;
+	
+}
+.user-pro{
+	max-height:700px;
+	border:none;
+	padding:20px;	
+	position:relative;
+}
+.user-edit{
+	position:absolute;
+	right:0px;
+	top:0px;
+}
+.user-name{
+	max-width:150px;
+	text-align:center;
+	margin:6px;
+}
+.user-img{
+	max-height:300px;
+	max-width:150px;
+	
+	
+}
+.cont-aut{
+	
+}
